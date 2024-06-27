@@ -1,11 +1,11 @@
 # Використані технології:
-JavaScript (ES6+) для логіки гри та взаємодії з користувачем.
+JavaScript (ES6+) - для логіки гри та взаємодії з користувачем.
 
-ESLint для статичного аналізу коду на JavaScript.
+ESLint - для статичного аналізу коду на JavaScript.
 
-Git для контролю версій.
+Git - для контролю версій.
 
-SCSS
+SCSS - preproccessor CSS
 
 # Посилання:
 1. [DEMO LINK](https://getchards.github.io/2048_game/)
