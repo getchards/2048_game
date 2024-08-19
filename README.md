@@ -1,4 +1,4 @@
-**Technologies Used**<br>
+**Technologies Used**<br><br>
 **JavaScript (ES6+):** For game logic and user interaction.<br>
 **ESLint:** For static code analysis in JavaScript.<br>
 **Git:** For version control.<br>
