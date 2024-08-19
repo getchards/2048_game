@@ -9,7 +9,7 @@ This project is a 2048 game implementation, showcasing the use of modern web tec
 
 [DEMO LINK](https://getchards.github.io/2048_game/)
 
-**Instructions to Run Locally**<br>
+**Instructions to Run Locally**<br><br>
 1.Clone the repository from GitHub: **-git clone https://github.com/username/repository.git**<br>
 2.Navigate to the project directory: **-cd repository**<br>
 3.Install dependencies: **-npm install**<br>
