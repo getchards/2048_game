@@ -6,9 +6,9 @@
 
 [DEMO LINK](https://getchards.github.io/2048_game/)
 
-Instructions to Run Locally
-1.Clone the repository from GitHub: **-git clone https://github.com/username/repository.git**
-2.Navigate to the project directory: **-cd repository**
-3.Install dependencies: **-npm install**
+Instructions to Run Locally<br>
+1.Clone the repository from GitHub: **-git clone https://github.com/username/repository.git**<br>
+2.Navigate to the project directory: **-cd repository**<br>
+3.Install dependencies: **-npm install**<br>
 4.Start the project:<br>
 **-npm start** or **-npm run dev**
