@@ -1,17 +1,14 @@
-# Використані технології:
-JavaScript (ES6+) - для логіки гри та взаємодії з користувачем.
+**Technologies Used**<br>
+**JavaScript (ES6+):** For game logic and user interaction.<br>
+**ESLint:** For static code analysis in JavaScript.<br>
+**Git:** For version control.<br>
+**SCSS:** CSS preprocessor.
 
-ESLint - для статичного аналізу коду на JavaScript.
+[DEMO LINK](https://getchards.github.io/2048_game/)
 
-Git - для контролю версій.
-
-SCSS - preproccessor CSS
-
-# Посилання:
-1. [DEMO LINK](https://getchards.github.io/2048_game/)
-   
-# Інструкції для запуску:
-Клонуйте репозиторій з GitHub: git clone https://github.com/username/repository.git
-Встановіть залежності: npm install
-Запустіть проект: npm start або npm run dev
-Відкрийте браузер і перейдіть за посиланням http://localhost:8080 (або іншим, залежно від налаштувань)
+Instructions to Run Locally
+1.Clone the repository from GitHub: **-git clone https://github.com/username/repository.git**
+2.Navigate to the project directory: **-cd repository**
+3.Install dependencies: **-npm install**
+4.Start the project:<br>
+**-npm start** or **-npm run dev**
